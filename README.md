@@ -62,3 +62,34 @@
   </a>
 </p>
 
+
+
+<p align="center">
+  <img src="https://i.gifer.com/origin/0b/0b88af48aeb0b9c0b77fd83fa0e04888_w200.gif" width="100%" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=2000&color=00F7FF&center=true&vCenter=true&width=600&lines=End+of+README+unlocked!;Initializing+next+project...;See+you+in+the+future+🚀" alt="Typing SVG" />
+</p>
+
+
+
+
+
+
+<p align="center">
+  <img src="https://i.ibb.co/7K0kqCf/glitch.gif" width="400" alt="glitch effect"/>
+  <br/>
+  <b>404: End of README Not Found</b>
+</p>
+
+
+
+<p align="center">
+  🏆 Congratulations! <br/>
+  You reached the hidden treasure of this README.<br/>
+  Claim your prize 👉 ⭐ Star this repo 😉
+</p>
+
