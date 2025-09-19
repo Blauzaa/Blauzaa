@@ -33,7 +33,7 @@
 
 
 <pre align="center">
-  ██████╗ ██╗      █████╗ ██╗   ██╗ ███████╗  █████╗  █████╗ 
+  ██████╗ ██╗      █████╗ ██╗   ██╗ ███████╗  █████╗  █████╗ \n
   ██╔══██╗██║     ██╔══██╗██║   ██║ ╚══███╔╝ ██╔══██╗██╔══██╗
   ██████╔╝██║     ███████║██║   ██║   ███╔╝  ███████║███████║
   ██╔══██╗██║     ██╔══██║██║   ██║  ███╔╝   ██╔══██║██╔══██║
@@ -41,13 +41,6 @@
                                       ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝  ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝                                                                                                                                                                                                                                                                                                             
 </pre>
 
-
-
-<p align="center">
-  <a href="https://github.com/Blauzaa">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=%20Always%20learning%2C%20always%20coding.;Never%20stop%20exploring.;Backend%20is%20my%20playground.;AI%20is%20the%20future." alt="Typing SVG" />
-  </a>
-</p>
 
 
 <p align="center">
