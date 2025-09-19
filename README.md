@@ -25,6 +25,45 @@
 [![](https://visitcount.itsvg.in/api?id=Blauzaa&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<!-- WakaTime Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Blauzaa&layout=compact&theme=dark" alt="Blauzaa's WakaTime Stats" />
+</p>
+
+
+<p align="center">
+  <a href="https://skyline.github.com/Blauzaa/2024">
+    <img src="https://skyline.github.com/Blauzaa/2024.png" width="80%" alt="Blauzaa's GitHub Skyline">
+  </a>
+  <br>
+  <i>Klik gambar untuk melihat versi 3D-nya!</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:33FF33,100:008000&height=150&section=footer"/>
+</p>
+
+
+
+
+<pre align="center">
+  ██████╗ ██╗      █████╗ ██╗   ██╗ ███████╗  █████╗  █████╗ 
+  ██╔══██╗██║     ██╔══██╗██║   ██║ ╚══███╔╝ ██╔══██╗██╔══██╗
+  ██████╔╝██║     ███████║██║   ██║   ███╔╝  ███████║███████║
+  ██╔══██╗██║     ██╔══██║██║   ██║  ███╔╝   ██╔══██║██╔══██║
+  ██████╔╝███████╗██║  ██║╚██████╔╝ ███████╗██║  ██║██║  ██║
+  ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝  ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝                                                                                                                                                                                                                                                                                                             
+</pre>
+
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/Blauzaa" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+  </a>
+</p>
+
 <p align="center">
   <a href="https://github.com/Blauzaa">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=33FF33&center=true&vCenter=true&width=435&lines=Always%20learning%2C%20always%20coding.;Never%20stop%20exploring.;Backend%20is%20my%20playground.;AI%20is%20the%20future." alt="Typing SVG" />
