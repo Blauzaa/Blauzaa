@@ -26,14 +26,14 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-
 ---
 
-## 🎲 Fun Zone
-> Here's a little surprise at the end of the README 👇
+## 🎉 Fun Extras
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
+### 🐍 Watch my contributions turn into a snake!
+![snake gif](https://github.com/Blauzaa/Blauzaa/blob/output/github-contribution-grid-snake.gif)
 
-![Snake animation](https://raw.githubusercontent.com/Blauzaa/Blauzaa/output/github-contribution-grid-snake.svg)
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="400"/>
+
 
