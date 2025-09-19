@@ -56,11 +56,7 @@
 
 ---
 
-<h3 align="center">🔥 Thanks for visiting! 🔥</h3>
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
+<h3 align="center">🔥 Thanks for visiting! 🔥</h3> <p align="center"> <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" /> </p>
 <p align="center">
   <b>Until next time — keep coding, keep exploring 🚀</b>
 </p>
