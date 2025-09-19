@@ -37,21 +37,22 @@
   ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝  ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
 </pre>
 
-
 ---
 
 <p align="center">
   <a href="https://github.com/Blauzaa">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=Always+learning,+always+coding;Never+stop+exploring;Backend+is+my+playground;AI+is+the+future." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&vCenter=true&width=550&lines=Always+learning,+always+coding;Never+stop+exploring;Backend+is+my+playground;AI+is+the+future." alt="Typing SVG" />
   </a>
 </p>
+
 ---
 
-
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="1000" /><br/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="800" /><br/>
   <b>“Code is like magic ✨, the only difference is that it always compiles (well... almost).”</b>
 </p>
+
+---
 
 <p align="center">
   🧩 If you've scrolled this far, you just unlocked the secret easter egg of my README.<br/>
@@ -60,7 +61,14 @@
 
 ---
 
+<h3 align="center">🔥 Thanks for visiting! 🔥</h3>
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
+<p align="center">
+  <b>Until next time — keep coding, keep exploring 🚀</b>
+</p>
 
 
 
