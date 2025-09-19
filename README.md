@@ -29,20 +29,6 @@
 
 
 
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="120" /><br/>
-  <b>“Code is like magic ✨, the only difference is that it always compiles (well... almost).”</b>
-</p>
-
-<p align="center">
-  🧩 If you've scrolled this far, you just unlocked the secret easter egg of my README.<br/>
-  🍪 Reward: A virtual cookie & a smile 😁
-</p>
-
-
-
-
 <pre align="center" style="white-space: pre-wrap; word-wrap: break-word; font-size: 12px;">
   ██████╗ ██╗      █████╗ ██╗   ██╗ ███████╗  █████╗  █████╗
   ██╔══██╗██║     ██╔══██╗██║   ██║ ╚══███╔╝ ██╔══██╗██╔══██╗
@@ -54,54 +40,30 @@
 
 
 
-
+---
 
 <p align="center">
   <a href="https://github.com/Blauzaa">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=Always+learning,+always+coding;Never+stop+exploring;Backend+is+my+playground;AI+is+the+future." alt="Typing SVG" />
   </a>
 </p>
+---
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500" /><br/>
+  <b>“Code is like magic ✨, the only difference is that it always compiles (well... almost).”</b>
+</p>
+
+<p align="center">
+  🧩 If you've scrolled this far, you just unlocked the secret easter egg of my README.<br/>
+  🍪 Reward: A virtual cookie & a smile 😁
+</p>
+
+---
 
 
 
- B L A U Z A A OS v2.0.1 booting...
- 
- ██████╗ ██╗      █████╗ ██╗   ██╗ ███████╗  █████╗  █████╗
- ██╔══██╗██║     ██╔══██╗██║   ██║ ╚══███╔╝ ██╔══██╗██╔══██╗
- ██████╔╝██║     ███████║██║   ██║   ███╔╝  ███████║███████║
- ██╔══██╗██║     ██╔══██║██║   ██║  ███╔╝   ██╔══██║██╔══██║
- ██████╔╝███████╗██║  ██║╚██████╔╝ ███████╗██║  ██║██║  ██║
- ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝  ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
- 
- [ OK ] Kernel loaded.
- [ OK ] Initializing services...
- [ OK ] Mounting virtual filesystem...
- [ OK ] Network interface `eth0` connected.
- 
- Welcome, visitor!
- Type `help` for a list of available commands.
- 
- 
- [visitor@github ~]$ ls -a services
- .
- ..
- ├── backend_development.service   [active]
- ├── ai_development.service        [active]
- ├── golang_learning_module.so     [loading...]
- └── open_source_collaboration     [listening for connections]
- 
- [visitor@github ~]$ cat /var/log/passion.log
- 
- [2024-10-26 10:00] EVENT: Problem detected. STATUS: Intriguing. ACTION: Dive deep.
- [2024-10-26 14:30] EVENT: Code compiles. STATUS: Momentary success. ACTION: Refactor.
- [2024-10-27 09:15] EVENT: New concept discovered (Golang Channels). STATUS: Mind blown. ACTION: Experiment relentlessly.
- [2024-10-28 11:00] EVENT: Open source PR merged. STATUS: Community contribution high. ACTION: Find next project to help.
- 
- [visitor@github ~]$ contact --method all
- 
- > Establishing connection...
- > Success! All social links are available above.
- > Send a signal. I'll be listening.
- 
- [visitor@github ~]$ exit
+
+
 
