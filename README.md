@@ -27,23 +27,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<!-- WakaTime Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Blauzaa&layout=compact&theme=dark" alt="Blauzaa's WakaTime Stats" />
-</p>
 
-
-<p align="center">
-  <a href="https://skyline.github.com/Blauzaa/2024">
-    <img src="https://skyline.github.com/Blauzaa/2024.png" width="80%" alt="Blauzaa's GitHub Skyline">
-  </a>
-  <br>
-  <i>Klik gambar untuk melihat versi 3D-nya!</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:33FF33,100:008000&height=150&section=footer"/>
-</p>
 
 
 
@@ -54,15 +38,11 @@
   ██████╔╝██║     ███████║██║   ██║   ███╔╝  ███████║███████║
   ██╔══██╗██║     ██╔══██║██║   ██║  ███╔╝   ██╔══██║██╔══██║
   ██████╔╝███████╗██║  ██║╚██████╔╝ ███████╗██║  ██║██║  ██║
-  ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝  ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝                                                                                                                                                                                                                                                                                                             
+                                                            ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝  ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝                                                                                                                                                                                                                                                                                                             
 </pre>
 
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/Blauzaa" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/Blauzaa">
