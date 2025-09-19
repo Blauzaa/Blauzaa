@@ -74,4 +74,26 @@
 
 
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="120" /><br/>
+  <b>Woof! You reached the end 🐕</b>
+</p>
+
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" /><br/>
+  <b>Meow! Thanks for scrolling 🐾</b>
+</p>
+
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" width="90" /><br/>
+  <b>Game over? Nah... keep coding 🎮</b>
+</p>
+
+
+
+
 
