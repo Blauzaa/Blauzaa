@@ -25,11 +25,9 @@
 [![](https://visitcount.itsvg.in/api?id=Blauzaa&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <p align="center">
   <a href="https://github.com/Blauzaa">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=33FF33&center=true&vCenter=true&width=435&lines=AAlways+learning%2C+always+coding.;Never+stop+exploring.;Backend+is+my+playground.;AI+is+the+future." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=33FF33&center=true&vCenter=true&width=435&lines=Always%20learning%2C%20always%20coding.;Never%20stop%20exploring.;Backend%20is%20my%20playground.;AI%20is%20the%20future." alt="Typing SVG" />
   </a>
 </p>
-
 
