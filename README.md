@@ -26,14 +26,8 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
----
-
-## 🎉 Fun Extras
-
-### 🐍 Watch my contributions turn into a snake!
-![snake gif](https://github.com/Blauzaa/Blauzaa/blob/output/github-contribution-grid-snake.gif)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="400"/>
+<div align="center">
+  <img src="https://github.com/Blauzaa/Blauzaa/blob/output/github-contribution-grid-snake.svg" alt="Blauzaa's Contribution Snake">
+</div>
 
 
