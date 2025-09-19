@@ -30,6 +30,17 @@
 
 
 
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="120" /><br/>
+  <b>“Code is like magic ✨, the only difference is that it always compiles (well... almost).”</b>
+</p>
+
+<p align="center">
+  🧩 If you've scrolled this far, you just unlocked the secret easter egg of my README.<br/>
+  🍪 Reward: A virtual cookie & a smile 😁
+</p>
+
+
 
 
 <pre align="center">
@@ -42,12 +53,7 @@
 </pre>
 
 
-## ⚡ Aktivitas GitHub Terbaru
-<p align="center">
-  <a href="https://github.com/Blauzaa">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Blauzaa&bg_color=0D1117&color=FFFFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" alt="Blauzaa's Recent Activity"/>
-  </a>
-</p>
+
 
 
 <p align="center">
