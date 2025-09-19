@@ -28,7 +28,6 @@
 
 
 
-
 <pre align="center" style="white-space: pre-wrap; word-wrap: break-word; font-size: 12px;">
   ██████╗ ██╗      █████╗ ██╗   ██╗ ███████╗  █████╗  █████╗
   ██╔══██╗██║     ██╔══██╗██║   ██║ ╚══███╔╝ ██╔══██╗██╔══██╗
@@ -37,7 +36,6 @@
   ██████╔╝███████╗██║  ██║╚██████╔╝ ███████╗██║  ██║██║  ██║
   ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝  ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
 </pre>
-
 
 
 ---
@@ -51,7 +49,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500" /><br/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="1000" /><br/>
   <b>“Code is like magic ✨, the only difference is that it always compiles (well... almost).”</b>
 </p>
 
