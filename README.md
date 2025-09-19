@@ -33,7 +33,7 @@
 
 
 <pre align="center">
-  ██████╗ ██╗      █████╗ ██╗   ██╗ ███████╗  █████╗  █████╗ \n
+  ██████╗ ██╗      █████╗ ██╗   ██╗ ███████╗  █████╗  █████╗
   ██╔══██╗██║     ██╔══██╗██║   ██║ ╚══███╔╝ ██╔══██╗██╔══██╗
   ██████╔╝██║     ███████║██║   ██║   ███╔╝  ███████║███████║
   ██╔══██╗██║     ██╔══██║██║   ██║  ███╔╝   ██╔══██║██╔══██║
@@ -41,6 +41,13 @@
                                       ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝  ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝                                                                                                                                                                                                                                                                                                             
 </pre>
 
+
+## ⚡ Aktivitas GitHub Terbaru
+<p align="center">
+  <a href="https://github.com/Blauzaa">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Blauzaa&bg_color=0D1117&color=FFFFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" alt="Blauzaa's Recent Activity"/>
+  </a>
+</p>
 
 
 <p align="center">
