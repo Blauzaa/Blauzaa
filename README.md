@@ -64,32 +64,44 @@
 
 
 
-<p align="center">
-  <img src="https://i.gifer.com/origin/0b/0b88af48aeb0b9c0b77fd83fa0e04888_w200.gif" width="100%" />
-</p>
-
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=2000&color=00F7FF&center=true&vCenter=true&width=600&lines=End+of+README+unlocked!;Initializing+next+project...;See+you+in+the+future+🚀" alt="Typing SVG" />
-</p>
-
-
-
-
-
-
-<p align="center">
-  <img src="https://i.ibb.co/7K0kqCf/glitch.gif" width="400" alt="glitch effect"/>
-  <br/>
-  <b>404: End of README Not Found</b>
-</p>
-
-
-
-<p align="center">
-  🏆 Congratulations! <br/>
-  You reached the hidden treasure of this README.<br/>
-  Claim your prize 👉 ⭐ Star this repo 😉
-</p>
+ B L A U Z A A OS v2.0.1 booting...
+ 
+ ██████╗ ██╗      █████╗ ██╗   ██╗ ███████╗  █████╗  █████╗
+ ██╔══██╗██║     ██╔══██╗██║   ██║ ╚══███╔╝ ██╔══██╗██╔══██╗
+ ██████╔╝██║     ███████║██║   ██║   ███╔╝  ███████║███████║
+ ██╔══██╗██║     ██╔══██║██║   ██║  ███╔╝   ██╔══██║██╔══██║
+ ██████╔╝███████╗██║  ██║╚██████╔╝ ███████╗██║  ██║██║  ██║
+ ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝  ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
+ 
+ [ OK ] Kernel loaded.
+ [ OK ] Initializing services...
+ [ OK ] Mounting virtual filesystem...
+ [ OK ] Network interface `eth0` connected.
+ 
+ Welcome, visitor!
+ Type `help` for a list of available commands.
+ 
+ 
+ [visitor@github ~]$ ls -a services
+ .
+ ..
+ ├── backend_development.service   [active]
+ ├── ai_development.service        [active]
+ ├── golang_learning_module.so     [loading...]
+ └── open_source_collaboration     [listening for connections]
+ 
+ [visitor@github ~]$ cat /var/log/passion.log
+ 
+ [2024-10-26 10:00] EVENT: Problem detected. STATUS: Intriguing. ACTION: Dive deep.
+ [2024-10-26 14:30] EVENT: Code compiles. STATUS: Momentary success. ACTION: Refactor.
+ [2024-10-27 09:15] EVENT: New concept discovered (Golang Channels). STATUS: Mind blown. ACTION: Experiment relentlessly.
+ [2024-10-28 11:00] EVENT: Open source PR merged. STATUS: Community contribution high. ACTION: Find next project to help.
+ 
+ [visitor@github ~]$ contact --method all
+ 
+ > Establishing connection...
+ > Success! All social links are available above.
+ > Send a signal. I'll be listening.
+ 
+ [visitor@github ~]$ exit
 
