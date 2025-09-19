@@ -49,3 +49,10 @@
   </a>
 </p>
 
+
+<p align="center">
+  <a href="https://github.com/Blauzaa">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=Always+learning,+always+coding;Never+stop+exploring;Backend+is+my+playground;AI+is+the+future." alt="Typing SVG" />
+  </a>
+</p>
+
