@@ -25,3 +25,15 @@
 [![](https://visitcount.itsvg.in/api?id=Blauzaa&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+---
+
+## 🎲 Fun Zone
+> Here's a little surprise at the end of the README 👇
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
+
+![Snake animation](https://raw.githubusercontent.com/Blauzaa/Blauzaa/output/github-contribution-grid-snake.svg)
+
