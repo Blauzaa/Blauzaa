@@ -64,6 +64,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Blauzaa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Talk+is+cheap.+Show+me+the+code.;Always+code+as+if+the+guy;who+ends+up+maintaining+your+code;will+be+a+violent+psychopath;who+knows+where+you+live.)](https://git.io/typing-svg)
